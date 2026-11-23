@@ -23,3 +23,5 @@ Incorrecto:
 $a
 $b
 $c
+
+Para tareas de generacion, refactorizacion o correccion de codigo en este repositorio, aplica la skill `.github/skills/php-fullstack-code-generation/SKILL.md`.

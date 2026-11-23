@@ -1,5 +1,7 @@
 Genera código siguiendo:
 
+Aplica también la skill `.github/skills/php-fullstack-code-generation/SKILL.md`.
+
 PHP 8+
 Clean Code
 SOLID
